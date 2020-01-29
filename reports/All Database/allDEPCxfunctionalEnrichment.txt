@@ -1,0 +1,37 @@
+0.534883720930233 115 GO:0008152 metabolic process
+0.748837209302326 161 GO:0009987 cellular process
+0.586046511627907 126 GO:0050789 regulation of biological process
+0.544186046511628 117 GO:0050794 regulation of cellular process
+0.618604651162791 133 GO:0065007 biological regulation
+0.0325581395348837 7 HSA-109582 Hemostasis
+0.027906976744186 6 HSA-1266738 Developmental Biology
+0.0418604651162791 9 HSA-1280215 Cytokine Signaling in Immune system
+0.0465116279069767 10 HSA-1280218 Adaptive Immune System
+0.106976744186047 23 HSA-1430728 Metabolism
+0.144186046511628 31 HSA-162582 Signal Transduction
+0.027906976744186 6 HSA-1640170 Cell Cycle
+0.0604651162790698 13 HSA-1643685 Disease
+0.0558139534883721 12 HSA-168249 Innate Immune System
+0.130232558139535 28 HSA-168256 Immune System
+0.027906976744186 6 HSA-194315 Signaling by Rho GTPases
+0.027906976744186 6 HSA-199991 Membrane Trafficking
+0.0418604651162791 9 HSA-212436 Generic Transcription Pathway
+0.027906976744186 6 HSA-3700989 Transcriptional Regulation by TP53
+0.0511627906976744 11 HSA-372790 Signaling by GPCR
+0.027906976744186 6 HSA-381753 Olfactory Signaling Pathway
+0.0372093023255814 8 HSA-382551 Transport of small molecules
+0.0511627906976744 11 HSA-388396 GPCR downstream signalling
+0.116279069767442 25 HSA-392499 Metabolism of proteins
+0.0372093023255814 8 HSA-418555 G alpha (s) signalling events
+0.027906976744186 6 HSA-449147 Signaling by Interleukins
+0.0372093023255814 8 HSA-556833 Metabolism of lipids
+0.027906976744186 6 HSA-5653656 Vesicle-mediated transport
+0.0790697674418605 17 HSA-597592 Post-translational protein modification
+0.0418604651162791 9 HSA-73857 RNA Polymerase II Transcription
+0.0465116279069767 10 HSA-74160 Gene expression (Transcription)
+0.0325581395348837 7 HSA-8953854 Metabolism of RNA
+0.027906976744186 6 HSA-9006934 Signaling by Receptor Tyrosine Kinases
+0.027906976744186 6 HSA-983168 Antigen processing: Ubiquitination & Proteasome degradation
+0.0325581395348837 7 HSA-983169 Class I MHC mediated antigen processing & presentation
+0.0418604651162791 9 SM00355 zinc finger
+0.027906976744186 6 SM00370 Leucine-rich repeats, outliers

@@ -1,0 +1,16 @@
+0.538461538461538 49 GO:0008152 metabolic process
+0.78021978021978 71 GO:0009987 cellular process
+0.505494505494505 46 GO:0044238 primary metabolic process
+0.516483516483517 47 GO:0050789 regulation of biological process
+0.505494505494505 46 GO:0050794 regulation of cellular process
+0.571428571428571 52 GO:0065007 biological regulation
+0.516483516483517 47 GO:0071704 organic substance metabolic process
+0.0659340659340659 6 HSA-1266738 Developmental Biology
+0.131868131868132 12 HSA-1430728 Metabolism
+0.175824175824176 16 HSA-162582 Signal Transduction
+0.0769230769230769 7 HSA-168256 Immune System
+0.0659340659340659 6 HSA-212436 Generic Transcription Pathway
+0.0989010989010989 9 HSA-392499 Metabolism of proteins
+0.0879120879120879 8 HSA-597592 Post-translational protein modification
+0.0659340659340659 6 HSA-73857 RNA Polymerase II Transcription
+0.0659340659340659 6 HSA-74160 Gene expression (Transcription)

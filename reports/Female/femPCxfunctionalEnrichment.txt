@@ -1,0 +1,13 @@
+0.5 48 GO:0008152 metabolic process
+0.802083333333333 77 GO:0009987 cellular process
+0.5625 54 GO:0050789 regulation of biological process
+0.53125 51 GO:0050794 regulation of cellular process
+0.625 60 GO:0065007 biological regulation
+0.114583333333333 11 HSA-1430728 Metabolism
+0.145833333333333 14 HSA-162582 Signal Transduction
+0.0625 6 HSA-168256 Immune System
+0.0729166666666667 7 HSA-372790 Signaling by GPCR
+0.0625 6 HSA-382551 Transport of small molecules
+0.0729166666666667 7 HSA-388396 GPCR downstream signalling
+0.0729166666666667 7 HSA-392499 Metabolism of proteins
+0.0625 6 HSA-74160 Gene expression (Transcription)

@@ -1,0 +1,14 @@
+0.535211267605634 38 GO:0008152 metabolic process
+0.76056338028169 54 GO:0009987 cellular process
+0.52112676056338 37 GO:0044237 cellular metabolic process
+0.507042253521127 36 GO:0044238 primary metabolic process
+0.507042253521127 36 GO:0050789 regulation of biological process
+0.52112676056338 37 GO:0065007 biological regulation
+0.52112676056338 37 GO:0071704 organic substance metabolic process
+0.169014084507042 12 HSA-1430728 Metabolism
+0.112676056338028 8 HSA-162582 Signal Transduction
+0.140845070422535 10 HSA-168256 Immune System
+0.0845070422535211 6 HSA-212436 Generic Transcription Pathway
+0.0985915492957746 7 HSA-73857 RNA Polymerase II Transcription
+0.112676056338028 8 HSA-74160 Gene expression (Transcription)
+0.0845070422535211 6 SM00355 zinc finger

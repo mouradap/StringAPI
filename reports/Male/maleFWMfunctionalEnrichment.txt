@@ -1,0 +1,6 @@
+0.523809523809524 22 GO:0008152 metabolic process
+0.714285714285714 30 GO:0009987 cellular process
+0.523809523809524 22 GO:0050789 regulation of biological process
+0.5 21 GO:0050794 regulation of cellular process
+0.571428571428571 24 GO:0065007 biological regulation
+0.142857142857143 6 HSA-1430728 Metabolism

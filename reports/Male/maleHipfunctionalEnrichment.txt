@@ -1,0 +1,4 @@
+0.846153846153846 33 GO:0009987 cellular process
+0.692307692307692 27 GO:0050789 regulation of biological process
+0.641025641025641 25 GO:0050794 regulation of cellular process
+0.717948717948718 28 GO:0065007 biological regulation
