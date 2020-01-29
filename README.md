@@ -12,5 +12,5 @@ Usage:
 
 Requirements:
 
-Pandas
-Requests
+- Pandas
+- Requests
